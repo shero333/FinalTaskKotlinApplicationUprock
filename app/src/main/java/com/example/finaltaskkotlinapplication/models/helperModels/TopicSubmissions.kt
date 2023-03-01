@@ -1,0 +1,3 @@
+package com.example.finaltaskkotlinapplication.models.helperModels
+
+class TopicSubmissions
